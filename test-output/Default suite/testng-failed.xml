@@ -5,8 +5,11 @@
     <classes>
       <class name="testcases.DemoTest">
         <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
           <include name="test2"/>
           <include name="test3"/>
+          <include name="test1"/>
         </methods>
       </class> <!-- testcases.DemoTest -->
     </classes>

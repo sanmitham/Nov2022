@@ -3,8 +3,10 @@ package testcases;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import base.BaseClass;
+
 //@Listeners({listeners.MyListener.class})
-public class DemoTest {
+public class DemoTest{
 
 	@Test
 	public void test1()
