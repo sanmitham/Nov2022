@@ -25,8 +25,7 @@ public class Utility {
 
 	/*
 	 *  	create a method for alert which will wait and return the text of alert > accept the alert
-	 * 	
-	 * 		create a method for alert which will wait and return alert interface reference
+	 * 	create a method for alert which will wait and return alert interface reference
 	 * 
 	 */
 	
