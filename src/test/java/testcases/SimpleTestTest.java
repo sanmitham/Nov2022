@@ -5,6 +5,6 @@ import org.testng.annotations.Test;
 public class SimpleTestTest {
   @Test
   public void NewTest() {
-	  System.out.println("New file is added");
+	  System.out.println("New test: New file is added");
   }
 }
